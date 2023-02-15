@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(218, 235, 251);
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+
+#animContainer{
+    transform: scale(0.2);
+    
+}
+.animation{
+    position: relative;
+    float:left;
+    margin: -150px;
+}
